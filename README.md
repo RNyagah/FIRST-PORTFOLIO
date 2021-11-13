@@ -45,7 +45,7 @@ My interests in programming stem from wanting to leverage on technology and impr
  
  </p>
 
- <img src = "IMAGES/beach image.jpg"
+ <img src = "IMAGES/beach image.jpg"/>
  
 
 
