@@ -1,7 +1,5 @@
 ﻿# FIRST-PORTFOLIO
 
-<!DOCTYPE html>
-
 <html>
     <head>
 
