@@ -16,7 +16,7 @@
             
                 <h1>My Portfolio</h1>
             
-            </div>
+            <div>
             
                 <a href="index.HTML">Home</a> 
                 <a href="index.HTML">About</a>
@@ -34,9 +34,9 @@ Am a Customer service consultant with over 10 years experience, an avid learner,
 <p>I am passionate in learning about new technologies that would revolutionalize and positively disrupt and 
 improve our daily life experiences.</p>
 <p>Background</p>
-I am an Information systems graduate from the Kenya School of monetary studies. </br>
+I am an Information systems graduate from the Kenya School of monetary studies. 
 My interests in programming stem from wanting to leverage on technology and improve on daily life, by creating simple, sustainable applications to solve everyday problems.
-</p>
+
 <p>Interests</p>
  Hiking
 <p>
